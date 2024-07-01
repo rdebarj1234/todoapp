@@ -1,0 +1,19 @@
+h1 {
+  font-weight: 800;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 50px;
+  background-color: antiquewhite;
+}
+input {
+  width: 100%;
+}
+.todo-container {
+  text-align: left;
+}
+.kgrow {
+  margin: 10px 5px;
+}
+button {
+  min-width: 100px;
+}
